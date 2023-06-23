@@ -1,7 +1,7 @@
 {
   "name": "ecommerce-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "express ecommerce backend, mongoose, nodemailer, jsonwebtoken, joi",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
