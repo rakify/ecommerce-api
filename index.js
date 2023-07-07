@@ -35,8 +35,10 @@ app.use(
     origin: [
       "http://localhost:5000",
       "http://localhost:5001",
+      "http://localhost:3000",
       "https://bestmart.vercel.app",
       "https://bestmart-admin.vercel.app",
+      "https://repliqmart.vercel.app",
     ],
     credentials: true, //access-control-allow-credentials:true
   })
